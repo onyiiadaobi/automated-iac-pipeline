@@ -36,4 +36,4 @@ jobs:
 
       - name: Terraform Plan
         working-directory: terraform
-        run: terraform plan
+        run: terraform plan -var="admin_ip=${{ vars.ADMIN_IP }}"
