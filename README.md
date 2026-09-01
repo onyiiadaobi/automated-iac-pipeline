@@ -10,7 +10,7 @@ I made use **GitHub OIDC** to securely connect GitHub Actions to AWS without sto
 
 ## Table of Contents
 
-1. Terraform Remote State
+1. AWS Infrastructure
 2. Terraform Remote State and State Locking
 3. GitHub Actions Workflow
 4. AWS Authentication with OIDC and IAM Permissions
